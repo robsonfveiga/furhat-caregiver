@@ -1,7 +1,7 @@
 import com.google.gson.Gson
-import furhatos.app.gettingstarted.flow.ServerResponseEvent
-import furhatos.app.gettingstarted.models.Request
-import furhatos.app.gettingstarted.models.Response
+import furhatos.app.caregiver.flow.ServerResponseEvent
+import furhatos.app.caregiver.models.Request
+import furhatos.app.caregiver.models.Response
 import furhatos.event.EventSystem
 import io.ktor.client.*
 import io.ktor.client.plugins.contentnegotiation.*

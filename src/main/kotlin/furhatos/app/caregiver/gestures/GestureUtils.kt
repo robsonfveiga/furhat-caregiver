@@ -1,4 +1,4 @@
-package furhatos.app.gettingstarted.gestures
+package furhatos.app.caregiver.gestures
 
 import furhatos.gestures.Gestures
 import furhatos.gestures.Gesture

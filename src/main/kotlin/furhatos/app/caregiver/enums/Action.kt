@@ -1,4 +1,4 @@
-package furhatos.app.gettingstarted.enums
+package furhatos.app.caregiver.enums
 
 enum class Action{
     WELCOME,

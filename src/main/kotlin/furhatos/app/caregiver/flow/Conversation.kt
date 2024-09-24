@@ -1,11 +1,11 @@
-package furhatos.app.gettingstarted.flow
+package furhatos.app.caregiver.flow
 
 import SocketIOClientService
-import furhatos.app.gettingstarted.enums.Action
-import furhatos.app.gettingstarted.enums.DataType
-import furhatos.app.gettingstarted.gestures.GestureUtils
-import furhatos.app.gettingstarted.models.Request
-import furhatos.app.gettingstarted.models.Response
+import furhatos.app.caregiver.enums.Action
+import furhatos.app.caregiver.enums.DataType
+import furhatos.app.caregiver.gestures.GestureUtils
+import furhatos.app.caregiver.models.Request
+import furhatos.app.caregiver.models.Response
 import furhatos.event.Event
 import furhatos.flow.kotlin.furhat
 import furhatos.flow.kotlin.onNoResponse

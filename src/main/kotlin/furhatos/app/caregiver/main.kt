@@ -1,10 +1,10 @@
-package furhatos.app.gettingstarted
-import furhatos.app.gettingstarted.flow.Conversation
+package furhatos.app.caregiver
+import furhatos.app.caregiver.flow.Conversation
 import furhatos.flow.kotlin.Flow
 import furhatos.skills.Skill
 
 
-class GettingstartedSkill : Skill() {
+class CaregiverSkill : Skill() {
     override fun start() {
         Flow().run(Conversation)
     }

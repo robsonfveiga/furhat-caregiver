@@ -1,7 +1,7 @@
-package furhatos.app.gettingstarted.models
+package furhatos.app.caregiver.models
 
-import furhatos.app.gettingstarted.models.properties.Gesture
-import furhatos.app.gettingstarted.models.properties.Voice
+import furhatos.app.caregiver.models.properties.Gesture
+import furhatos.app.caregiver.models.properties.Voice
 
 data class Response(
     val speech: String,
