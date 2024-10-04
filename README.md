@@ -3,6 +3,8 @@ The Caregiver Skill for Furhat Robotics is designed to provide empathetic and in
 support to individuals in need of assistance, particularly the elderly or those managing 
 chronic health conditions.
 
+*Important Note: This skill works just with **Azure Voices**.*
+
 ## How it Works (Server)
 ![server-agent-diagram.png](server-agent-diagram.png)
 
